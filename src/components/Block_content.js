@@ -6,7 +6,7 @@ export default function Block_content() {
     return (
         <div className="wrapper_block_content">
             <div className="photo_teacher">
-                <img src={photo}/>
+                <img src={photo} />
             </div>
             <div className="about_teacher">
                 <div className="teacher_name">
@@ -24,18 +24,17 @@ export default function Block_content() {
                 </div>
                 <div className="pink_rect">
                     <div>
-                    <span>Стаж обучения</span>
-                    <p>5 лет</p>
+                        <span>Стаж обучения</span>
+                        <p>5 лет</p>
+                   </div>
 
-                    </div>
-                    
                 </div>
-                
-                
 
-               
+
+
+
             </div>
-            
+
         </div>
     )
 }
