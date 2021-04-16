@@ -32,7 +32,7 @@ ul, li {
 }
 
 .about_teacher{
-    background-color: black;
+    background-color: #161616;
     max-width: 612px;
     max-height: 827px;
     width: 100%;
@@ -106,6 +106,7 @@ ul, li {
     line-height: 46px;
     letter-spacing: 0em;
     text-align: left;
+    font-family: Rubik;
 
 
 }
@@ -118,5 +119,6 @@ ul, li {
     font-weight: 500;
     font-size: 96px;
     line-height: 140%;
+    font-family: Rubik;
 }
 
